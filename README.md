@@ -90,6 +90,3 @@ Detect TOR browser installation or usage across endpoints and network logs using
 ---
 
 **Report Completed By:**  
-`Samuel Cavada`  
-`Information Security & Risk Analyst`  
-`contact.samuelcavada@gmail.com`
